@@ -106,4 +106,16 @@ export default StyleSheet.create({
     paddingHorizontal: 24,
     marginBottom: 20,
   },
+  headerContainer: {
+    paddingHorizontal: 25,
+    marginBottom: 10,
+    backgroundColor: 'lightsalmon',
+    borderRadius: 6,
+  },
+  headerTitle: {
+    fontSize: 24,
+    fontWeight: '600',
+    color: 'black',
+    textAlign: 'center',
+  },
 });
