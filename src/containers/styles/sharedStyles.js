@@ -90,4 +90,20 @@ export default StyleSheet.create({
     paddingRight: 10,
     paddingTop: 10,
   },
+  separatorStyle: {
+    height: 1,
+    backgroundColor: 'lightsalmon',
+    paddingTop: 2,
+    marginTop: 25,
+  },
+  headerImage: {
+    width: '100%',
+    height: 250,
+    resizeMode: 'cover',
+  },
+  footerContainer: {
+    marginTop: 32,
+    paddingHorizontal: 24,
+    marginBottom: 20,
+  },
 });
